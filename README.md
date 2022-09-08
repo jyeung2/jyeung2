@@ -24,7 +24,7 @@
 
 ### 👨🏻‍💻 About Me : 
 I'm a fresh UC Berkeley Master of Information and Data Science graduate!
-- 🔭 Seeking full-time Data Scientist and Machine Learning Engineer roles
+- 🔭 Seeking full-time Data Scientist, Machine Learning Engineer, and Software Engineer roles
 - 🌱 Learning object detection and frontend
 - 🤘 Passionate about practical machine learning solutions
 - 📫 Reach me at jyeung2@berkeley.edu or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremyyeung1/)
